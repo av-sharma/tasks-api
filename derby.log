@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Aug 15 03:25:33 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0173-eef8-8e52-000000e5b550 
+on database directory memory:/mnt/drive/programming/java/SpringBoot/Tasks/testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@12bb4df8 
+Loaded from file:/home/arnav/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=N/A
+java.runtime.version=14.0.1+7
+user.dir=/mnt/drive/programming/java/SpringBoot/Tasks
+os.name=Linux
+os.arch=amd64
+os.version=5.7.7-arch1-1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
